@@ -1,0 +1,69 @@
+/* Write your CSS code here */
+.bgContainer {
+  background-color: white;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.c1 {
+  box-shadow: 0px 4px 4px 0px grey;
+  width: 25vw;
+  min-height: 25vh;
+  padding: 20px;
+}
+.c2 {
+  width: 25vw;
+  padding: 20px;
+}
+.heading {
+  color: #ff0b37;
+}
+.btn1 {
+  background-color: #ff0b37;
+  border: 0px;
+  border-radius: 12px;
+  padding: 10px;
+  color: white;
+}
+.one {
+  text-align: center;
+}
+.input1 {
+  width: 20vw;
+  padding: 10px;
+}
+.para {
+  color: #ff0b37;
+}
+.first {
+  border: 1px solid #ff0b37;
+  width: 20vw;
+  padding: 10px;
+}
+.last {
+  border: 1px solid #ff0b37;
+  width: 20vw;
+  padding: 10px;
+}
+.bg1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  box-shadow: 0px 4px 4px 0px grey;
+}
+.btn2 {
+  background-color: #ff0b37;
+  color: white;
+  border-radius: 12px;
+  color: white;
+  padding: 10px;
+  border: 0px;
+}
+.img1 {
+  height: 50px;
+  width: 50px;
+}
